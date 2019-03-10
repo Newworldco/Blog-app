@@ -1,6 +1,6 @@
 # 创建博客文章类
 from django.db import models
-from django.utils import  timezone
+from django.utils import timezone
 
 
 class Post(models.Model):
